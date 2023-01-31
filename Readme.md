@@ -18,6 +18,8 @@ Os
 Glob
 Xml
 Pandas
+Numpy
+Matplotlib
 
 ## Setup
 Download requirement and run a project
